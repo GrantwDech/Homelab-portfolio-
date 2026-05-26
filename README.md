@@ -1,5 +1,5 @@
 # Homelab-portfolio-
-A secure homelab environment for learning built on Linux/Ubuntu and Docker with Tailscale remote access for streaming jellyfin away, Pi-hole DNS filtering and adblock for home wifi, and automated services for media.
+A homelab environment for learning built on Linux/Ubuntu and Docker with Tailscale remote access for streaming jellyfin away, Pi-hole DNS filtering and adblock for home wifi, and automated services for media.
 
 Have used/created/learned below--
 
@@ -19,6 +19,8 @@ Sonarr
 Radarr
 
 NZBGet
+
+Tailscale not in use anymore.. currently running media server on cloudflare.
 
 
 
